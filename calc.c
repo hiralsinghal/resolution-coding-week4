@@ -17,19 +17,19 @@ int main() {
     printf("Enter operator:\n");
     scanf(" %c", &op);
 
-    if (op == "+") {
+    if (op == '+') {
         answer = a + b;
     }
 
-    else if (op == "-") {
+    else if (op == '-') {
         answer = a - b;
     }
 
-    else if (op == "*") {
+    else if (op == '*') {
         answer = a*b;
     }
 
-    else if (op == "/") {
+    else if (op == '/') {
         answer = a/b;
     }
 
