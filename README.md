@@ -7,4 +7,5 @@ But it was fun, learning something new.
 You have to enter numbers when the executable runs and the operator you want so the program can run your calculator.
 
 # Word Counter
+It counts words and lines in the file provided.
 In the line ```FILE *filePointer = fopen("repeated.txt", "r");```, I have provided which file to read for counting words and even lines.
